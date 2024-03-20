@@ -26,7 +26,7 @@
 
 <h4 align="left">Social media:</h4>
 <div align="left">
-  <a href="[https://www.linkedin.com/in/Arpan Sahu](https://www.linkedin.com/in/arpan-sahu-5b4381295/?originalSubdomain=in)" target="_blank">
+  <a href="https://www.linkedin.com/in/Arpan Sahu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/ArpanSahu143" target="_blank">
