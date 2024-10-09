@@ -37,7 +37,7 @@
   <a href="https://twitter.com/ArpanSahu143" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="[https://www.instagram.com/just._.insan3/](https://www.instagram.com/5th._.dimension/profilecard/?igsh=MWVrZG1ieXJjdXFiaA==)" target="_blank">
+  <a href="(https://www.instagram.com/5th._.dimension/profilecard/?igsh=MWVrZG1ieXJjdXFiaA==)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="iter.student.alpha@gmail.com" target="_blank">
